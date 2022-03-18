@@ -16,8 +16,8 @@ Open Extensions in vscode and search for EasyView. With one click on the Install
 
 ### Use EasyView
 
-Before using EasyView, you need to first collect profiles in either PProf format or DrCCTProf format. 
-Once the profile is generated, there are three ways to open it.
+Before using EasyView, you need to first collect profiles in PProf format. 
+Once the profile is generated, there are two ways to open it.
 
 
 #### 1. Open EasyView with vscode Explorer View
