@@ -37,7 +37,7 @@ Once the profile is generated, there are three ways to open it.
 
 Click the following video and watch a short demo on YouTube.
 
-[![YouTube](./res/YouTube.png)](https://youtu.be/NKS3pIe3-qQ)
+[![YouTube](./YouTube.png)](https://youtu.be/NKS3pIe3-qQ)
 
 ## Survey
 
